@@ -78,7 +78,7 @@
 // //output :false
 
 
-// //  // 12.how to reverrse a array // // //
+// //  // 12.how to reverse a array // // //
 
 // // 1st way use reverse()
 // const num = [1, 2, 3, 4, 5, 6, 7, 8, 9];
