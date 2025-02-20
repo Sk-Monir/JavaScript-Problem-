@@ -116,7 +116,7 @@
 // const text = ['monir', 'kamal', 'jamal', 'rohan', 'kawakader', 'abul', 'dabul', 'cabul', 'mamun'];
 // text.sort();
 // console.log(text);
-// *** assendung => smaller to learge 
+// *** assendung => smaller to learge
 // const num1 = [1, 5, 7, 8, 9, 6, 3, 4, 5, 2, 9];
 
 
@@ -217,9 +217,18 @@
 // str[0] = "h";
 // console.log(str);
 
-for (var i = 0; i < 5; i++) {
-    setTimeout(function () {
-        console.log(i);
-    }, 100);
-}
+// for (var i = 0; i < 5; i++) {
+//     setTimeout(function () {
+//         console.log(i);
+//     }, 100);
+// }
+
+// const array = [1, 2, 3, 4, 5, 6, 7];
+
+// for (let i = 1; i < array.length; i++) {
+//     if (i == 5) {
+//         continue;
+//     }
+//     console.log(array[i]);
+// }
 
